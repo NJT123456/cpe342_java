@@ -1,0 +1,8 @@
+1001,     USB2 cable, 15
+1002,     USB3 cable, 10
+2001,     VGA cable, 5
+2002,     HDMI cable, 10
+2003,     DVI cable, 2
+3001,     iPad2VGA connector, 2
+3002,     Thunderbolt2VGA, 2
+3003,     Thunderbolt2HDMI, 4
